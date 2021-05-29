@@ -1,0 +1,87 @@
+* {
+  font-family: 'Roboto';
+}
+
+.container {
+  padding: 2%;
+}
+
+.card {
+  padding: 5%;
+  max-width: 70%;
+  margin: auto;
+}
+
+.card .fa-circle {
+  font-size: 1px;
+  padding: 5px;
+}
+
+.card p, .card .fa-eye {
+  opacity: 0.6;
+}
+
+.card .btn-danger {
+  height: 5%;
+  text-align: center;
+  margin-top: 2%;
+  border-radius: 5px;
+}
+
+.card h2 {
+  margin-top: 60px;
+}
+
+.card .fa-check-square {
+  padding: 5px;
+}
+
+.card progress {
+  width: 90%;
+}
+
+.card ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.card li {
+  font-size: 20px;
+  font-weight: bold;
+  list-style: none;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.card .fa-trash-alt {
+  color: red;
+  float: right;
+}
+
+.card #texto {
+  font-size: 20px;
+  width: 100%;
+  border: 1px solid #E1E1E1;
+  -webkit-box-shadow: -5px 10px 10px -5px rgba(90, 89, 89, 0.39);
+          box-shadow: -5px 10px 10px -5px rgba(90, 89, 89, 0.39);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.card h3 {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.card img {
+  width: 60px;
+  height: 60px;
+  border-radius: 300px;
+}
+
+.card .imagenes {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+/*# sourceMappingURL=style.css.map */
